@@ -1,0 +1,3 @@
+[submodule "togkey_zmk_source/zmk-config-pad-pocket"]
+	path = togkey_zmk_source/zmk-config-pad-pocket
+	url = https://github.com/pot0to/zmk-config-pad-pocket.git
